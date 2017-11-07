@@ -1,0 +1,259 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\slideentry {0}{0}{3}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\slideentry {0}{0}{4}{4/4}{}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\sectionentry {1}{Introduction}{5}{Introduction}{0}}
+\headcommand {\beamer@sectionpages {1}{4}}
+\headcommand {\beamer@subsectionpages {1}{4}}
+\headcommand {\slideentry {1}{0}{1}{5/5}{}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{6}{Artificial Intelligence}}\headcommand {\beamer@subsectionpages {5}{5}}
+\headcommand {\slideentry {1}{1}{1}{6/6}{Artificial Intelligence}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\slideentry {1}{1}{2}{7/7}{Artificial Intelligence}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\slideentry {1}{1}{3}{8/8}{Artificial Intelligence}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{9}{Machine Learning}}\headcommand {\beamer@subsectionpages {6}{8}}
+\headcommand {\slideentry {1}{2}{1}{9/9}{Machine Learning}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\slideentry {1}{2}{2}{10/10}{Machine Learning}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\slideentry {1}{2}{3}{11/11}{Machine Learning}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\sectionentry {2}{Machine Learning}{12}{Machine Learning}{0}}
+\headcommand {\beamer@sectionpages {5}{11}}
+\headcommand {\beamer@subsectionpages {9}{11}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{12}{Learning Approaches}}\headcommand {\beamer@subsectionpages {12}{11}}
+\headcommand {\slideentry {2}{1}{1}{12/12}{Learning Approaches}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{13}{Types of Problem}}\headcommand {\beamer@subsectionpages {12}{12}}
+\headcommand {\slideentry {2}{2}{1}{13/13}{Types of Problem}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{14}{History}}\headcommand {\beamer@subsectionpages {13}{13}}
+\headcommand {\slideentry {2}{3}{1}{14/14}{History}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\slideentry {2}{3}{2}{15/15}{History}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {2}{3}{3}{16/16}{History}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\slideentry {2}{3}{4}{17/17}{History}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\sectionentry {3}{Deep Learning-an Intro}{18}{Deep Learning-an Intro}{0}}
+\headcommand {\beamer@sectionpages {12}{17}}
+\headcommand {\beamer@subsectionpages {14}{17}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{18}{Need of DL}}\headcommand {\beamer@subsectionpages {18}{17}}
+\headcommand {\slideentry {3}{1}{1}{18/22}{Need of DL}{0}}
+\headcommand {\beamer@framepages {18}{22}}
+\headcommand {\slideentry {3}{1}{2}{23/23}{Need of DL}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\slideentry {3}{1}{3}{24/24}{Need of DL}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\slideentry {3}{1}{4}{25/25}{Need of DL}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\slideentry {3}{1}{5}{26/26}{Need of DL}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{27}{Neural Networks}}\headcommand {\beamer@subsectionpages {18}{26}}
+\headcommand {\slideentry {3}{2}{1}{27/27}{Neural Networks}{0}}
+\headcommand {\beamer@framepages {27}{27}}
+\headcommand {\slideentry {3}{2}{2}{28/28}{Neural Networks}{0}}
+\headcommand {\beamer@framepages {28}{28}}
+\headcommand {\slideentry {3}{2}{3}{29/29}{Neural Networks}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\slideentry {3}{2}{4}{30/32}{Neural Networks}{0}}
+\headcommand {\beamer@framepages {30}{32}}
+\headcommand {\slideentry {3}{2}{5}{33/33}{Neural Networks}{0}}
+\headcommand {\beamer@framepages {33}{33}}
+\headcommand {\slideentry {3}{2}{6}{34/34}{Neural Networks}{0}}
+\headcommand {\beamer@framepages {34}{34}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{35}{Evolution of DL}}\headcommand {\beamer@subsectionpages {27}{34}}
+\headcommand {\slideentry {3}{3}{1}{35/35}{Evolution of DL}{0}}
+\headcommand {\beamer@framepages {35}{35}}
+\headcommand {\slideentry {3}{3}{2}{36/36}{Evolution of DL}{0}}
+\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\slideentry {3}{3}{3}{37/37}{Evolution of DL}{0}}
+\headcommand {\beamer@framepages {37}{37}}
+\headcommand {\sectionentry {4}{Deep Learning- Basics}{38}{Deep Learning- Basics}{0}}
+\headcommand {\beamer@sectionpages {18}{37}}
+\headcommand {\beamer@subsectionpages {35}{37}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{38}{Architecture}}\headcommand {\beamer@subsectionpages {38}{37}}
+\headcommand {\slideentry {4}{1}{1}{38/38}{Architecture}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{39}{Perceptrons}}\headcommand {\beamer@subsectionpages {38}{38}}
+\headcommand {\slideentry {4}{2}{1}{39/39}{Perceptrons}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{40}{The Training Process}}\headcommand {\beamer@subsectionpages {39}{39}}
+\headcommand {\slideentry {4}{3}{1}{40/40}{The Training Process}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\slideentry {4}{3}{2}{41/41}{The Training Process}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\beamer@subsectionentry {0}{4}{4}{42}{Usage Requirements}}\headcommand {\beamer@subsectionpages {40}{41}}
+\headcommand {\slideentry {4}{4}{1}{42/45}{Usage Requirements}{0}}
+\headcommand {\beamer@framepages {42}{45}}
+\headcommand {\beamer@subsectionentry {0}{4}{5}{46}{Comparision with ML}}\headcommand {\beamer@subsectionpages {42}{45}}
+\headcommand {\slideentry {4}{5}{1}{46/46}{Comparision with ML}{0}}
+\headcommand {\beamer@framepages {46}{46}}
+\headcommand {\slideentry {4}{5}{2}{47/48}{Comparision with ML}{0}}
+\headcommand {\beamer@framepages {47}{48}}
+\headcommand {\slideentry {4}{5}{3}{49/50}{Comparision with ML}{0}}
+\headcommand {\beamer@framepages {49}{50}}
+\headcommand {\slideentry {4}{5}{4}{51/52}{Comparision with ML}{0}}
+\headcommand {\beamer@framepages {51}{52}}
+\headcommand {\slideentry {4}{5}{5}{53/53}{Comparision with ML}{0}}
+\headcommand {\beamer@framepages {53}{53}}
+\headcommand {\sectionentry {5}{Applications}{54}{Applications}{0}}
+\headcommand {\beamer@sectionpages {38}{53}}
+\headcommand {\beamer@subsectionpages {46}{53}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{54}{Case Studies}}\headcommand {\beamer@subsectionpages {54}{53}}
+\headcommand {\slideentry {5}{1}{1}{54/55}{Case Studies}{0}}
+\headcommand {\beamer@framepages {54}{55}}
+\headcommand {\slideentry {5}{1}{2}{56/56}{Case Studies}{0}}
+\headcommand {\beamer@framepages {56}{56}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{57}{Possibilities}}\headcommand {\beamer@subsectionpages {54}{56}}
+\headcommand {\slideentry {5}{2}{1}{57/57}{Possibilities}{0}}
+\headcommand {\beamer@framepages {57}{57}}
+\headcommand {\slideentry {5}{2}{2}{58/58}{Possibilities}{0}}
+\headcommand {\beamer@framepages {58}{58}}
+\headcommand {\slideentry {5}{2}{3}{59/59}{Possibilities}{0}}
+\headcommand {\beamer@framepages {59}{59}}
+\headcommand {\slideentry {5}{2}{4}{60/60}{Possibilities}{0}}
+\headcommand {\beamer@framepages {60}{60}}
+\headcommand {\slideentry {5}{2}{5}{61/61}{Possibilities}{0}}
+\headcommand {\beamer@framepages {61}{61}}
+\headcommand {\beamer@subsectionentry {0}{5}{3}{62}{DL in Industries}}\headcommand {\beamer@subsectionpages {57}{61}}
+\headcommand {\slideentry {5}{3}{1}{62/62}{DL in Industries}{0}}
+\headcommand {\beamer@framepages {62}{62}}
+\headcommand {\slideentry {5}{3}{2}{63/63}{DL in Industries}{0}}
+\headcommand {\beamer@framepages {63}{63}}
+\headcommand {\slideentry {5}{3}{3}{64/64}{DL in Industries}{0}}
+\headcommand {\beamer@framepages {64}{64}}
+\headcommand {\slideentry {5}{3}{4}{65/65}{DL in Industries}{0}}
+\headcommand {\beamer@framepages {65}{65}}
+\headcommand {\slideentry {5}{3}{5}{66/67}{DL in Industries}{0}}
+\headcommand {\beamer@framepages {66}{67}}
+\headcommand {\slideentry {5}{3}{6}{68/68}{DL in Industries}{0}}
+\headcommand {\beamer@framepages {68}{68}}
+\headcommand {\slideentry {5}{3}{7}{69/69}{DL in Industries}{0}}
+\headcommand {\beamer@framepages {69}{69}}
+\headcommand {\slideentry {5}{3}{8}{70/70}{DL in Industries}{0}}
+\headcommand {\beamer@framepages {70}{70}}
+\headcommand {\slideentry {5}{3}{9}{71/71}{DL in Industries}{0}}
+\headcommand {\beamer@framepages {71}{71}}
+\headcommand {\slideentry {5}{3}{10}{72/72}{DL in Industries}{0}}
+\headcommand {\beamer@framepages {72}{72}}
+\headcommand {\slideentry {5}{3}{11}{73/73}{DL in Industries}{0}}
+\headcommand {\beamer@framepages {73}{73}}
+\headcommand {\sectionentry {6}{Deeper into Deep Learning}{74}{Deeper into Deep Learning}{0}}
+\headcommand {\beamer@sectionpages {54}{73}}
+\headcommand {\beamer@subsectionpages {62}{73}}
+\headcommand {\beamer@subsectionentry {0}{6}{1}{74}{Structure of a Neural Network}}\headcommand {\beamer@subsectionpages {74}{73}}
+\headcommand {\slideentry {6}{1}{1}{74/74}{Structure of a Neural Network}{0}}
+\headcommand {\beamer@framepages {74}{74}}
+\headcommand {\slideentry {6}{1}{2}{75/75}{Structure of a Neural Network}{0}}
+\headcommand {\beamer@framepages {75}{75}}
+\headcommand {\slideentry {6}{1}{3}{76/76}{Structure of a Neural Network}{0}}
+\headcommand {\beamer@framepages {76}{76}}
+\headcommand {\slideentry {6}{1}{4}{77/77}{Structure of a Neural Network}{0}}
+\headcommand {\beamer@framepages {77}{77}}
+\headcommand {\slideentry {6}{1}{5}{78/78}{Structure of a Neural Network}{0}}
+\headcommand {\beamer@framepages {78}{78}}
+\headcommand {\slideentry {6}{1}{6}{79/79}{Structure of a Neural Network}{0}}
+\headcommand {\beamer@framepages {79}{79}}
+\headcommand {\slideentry {6}{1}{7}{80/80}{Structure of a Neural Network}{0}}
+\headcommand {\beamer@framepages {80}{80}}
+\headcommand {\slideentry {6}{1}{8}{81/81}{Structure of a Neural Network}{0}}
+\headcommand {\beamer@framepages {81}{81}}
+\headcommand {\slideentry {6}{1}{9}{82/82}{Structure of a Neural Network}{0}}
+\headcommand {\beamer@framepages {82}{82}}
+\headcommand {\slideentry {6}{1}{10}{83/83}{Structure of a Neural Network}{0}}
+\headcommand {\beamer@framepages {83}{83}}
+\headcommand {\slideentry {6}{1}{11}{84/84}{Structure of a Neural Network}{0}}
+\headcommand {\beamer@framepages {84}{84}}
+\headcommand {\slideentry {6}{1}{12}{85/85}{Structure of a Neural Network}{0}}
+\headcommand {\beamer@framepages {85}{85}}
+\headcommand {\slideentry {6}{1}{13}{86/86}{Structure of a Neural Network}{0}}
+\headcommand {\beamer@framepages {86}{86}}
+\headcommand {\beamer@subsectionentry {0}{6}{2}{87}{Types of Neural Network}}\headcommand {\beamer@subsectionpages {74}{86}}
+\headcommand {\slideentry {6}{2}{1}{87/87}{Types of Neural Network}{0}}
+\headcommand {\beamer@framepages {87}{87}}
+\headcommand {\beamer@subsectionentry {0}{6}{3}{88}{Feedforward Neural Network}}\headcommand {\beamer@subsectionpages {87}{87}}
+\headcommand {\slideentry {6}{3}{1}{88/88}{Feedforward Neural Network}{0}}
+\headcommand {\beamer@framepages {88}{88}}
+\headcommand {\slideentry {6}{3}{2}{89/89}{Feedforward Neural Network}{0}}
+\headcommand {\beamer@framepages {89}{89}}
+\headcommand {\slideentry {6}{3}{3}{90/93}{Feedforward Neural Network}{0}}
+\headcommand {\beamer@framepages {90}{93}}
+\headcommand {\slideentry {6}{3}{4}{94/94}{Feedforward Neural Network}{0}}
+\headcommand {\beamer@framepages {94}{94}}
+\headcommand {\slideentry {6}{3}{5}{95/95}{Feedforward Neural Network}{0}}
+\headcommand {\beamer@framepages {95}{95}}
+\headcommand {\beamer@subsectionentry {0}{6}{4}{96}{Recurrent Neural Network}}\headcommand {\beamer@subsectionpages {88}{95}}
+\headcommand {\slideentry {6}{4}{1}{96/96}{Recurrent Neural Network}{0}}
+\headcommand {\beamer@framepages {96}{96}}
+\headcommand {\slideentry {6}{4}{2}{97/98}{Recurrent Neural Network}{0}}
+\headcommand {\beamer@framepages {97}{98}}
+\headcommand {\slideentry {6}{4}{3}{99/100}{Recurrent Neural Network}{0}}
+\headcommand {\beamer@framepages {99}{100}}
+\headcommand {\slideentry {6}{4}{4}{101/101}{Recurrent Neural Network}{0}}
+\headcommand {\beamer@framepages {101}{101}}
+\headcommand {\slideentry {6}{4}{5}{102/102}{Recurrent Neural Network}{0}}
+\headcommand {\beamer@framepages {102}{102}}
+\headcommand {\sectionentry {7}{Future of Deep Learning}{103}{Future of Deep Learning}{0}}
+\headcommand {\beamer@sectionpages {74}{102}}
+\headcommand {\beamer@subsectionpages {96}{102}}
+\headcommand {\beamer@subsectionentry {0}{7}{1}{103}{What to expect?}}\headcommand {\beamer@subsectionpages {103}{102}}
+\headcommand {\slideentry {7}{1}{1}{103/104}{What to expect?}{0}}
+\headcommand {\beamer@framepages {103}{104}}
+\headcommand {\beamer@subsectionentry {0}{7}{2}{105}{Future applications of DL}}\headcommand {\beamer@subsectionpages {103}{104}}
+\headcommand {\slideentry {7}{2}{1}{105/105}{Future applications of DL}{0}}
+\headcommand {\beamer@framepages {105}{105}}
+\headcommand {\slideentry {7}{2}{2}{106/106}{Future applications of DL}{0}}
+\headcommand {\beamer@framepages {106}{106}}
+\headcommand {\slideentry {7}{2}{3}{107/107}{Future applications of DL}{0}}
+\headcommand {\beamer@framepages {107}{107}}
+\headcommand {\slideentry {7}{2}{4}{108/108}{Future applications of DL}{0}}
+\headcommand {\beamer@framepages {108}{108}}
+\headcommand {\slideentry {7}{2}{5}{109/109}{Future applications of DL}{0}}
+\headcommand {\beamer@framepages {109}{109}}
+\headcommand {\slideentry {7}{2}{6}{110/110}{Future applications of DL}{0}}
+\headcommand {\beamer@framepages {110}{110}}
+\headcommand {\slideentry {7}{2}{7}{111/111}{Future applications of DL}{0}}
+\headcommand {\beamer@framepages {111}{111}}
+\headcommand {\slideentry {7}{2}{8}{112/112}{Future applications of DL}{0}}
+\headcommand {\beamer@framepages {112}{112}}
+\headcommand {\slideentry {7}{2}{9}{113/113}{Future applications of DL}{0}}
+\headcommand {\beamer@framepages {113}{113}}
+\headcommand {\slideentry {7}{2}{10}{114/114}{Future applications of DL}{0}}
+\headcommand {\beamer@framepages {114}{114}}
+\headcommand {\slideentry {7}{2}{11}{115/115}{Future applications of DL}{0}}
+\headcommand {\beamer@framepages {115}{115}}
+\headcommand {\slideentry {7}{2}{12}{116/116}{Future applications of DL}{0}}
+\headcommand {\beamer@framepages {116}{116}}
+\headcommand {\slideentry {7}{2}{13}{117/117}{Future applications of DL}{0}}
+\headcommand {\beamer@framepages {117}{117}}
+\headcommand {\slideentry {7}{2}{14}{118/118}{Future applications of DL}{0}}
+\headcommand {\beamer@framepages {118}{118}}
+\headcommand {\slideentry {7}{2}{15}{119/119}{Future applications of DL}{0}}
+\headcommand {\beamer@framepages {119}{119}}
+\headcommand {\slideentry {7}{2}{16}{120/120}{Future applications of DL}{0}}
+\headcommand {\beamer@framepages {120}{120}}
+\headcommand {\slideentry {7}{2}{17}{121/121}{Future applications of DL}{0}}
+\headcommand {\beamer@framepages {121}{121}}
+\headcommand {\sectionentry {8}{References}{122}{References}{0}}
+\headcommand {\beamer@sectionpages {103}{121}}
+\headcommand {\beamer@subsectionpages {105}{121}}
+\headcommand {\slideentry {8}{0}{1}{122/122}{}{0}}
+\headcommand {\beamer@framepages {122}{122}}
+\headcommand {\slideentry {8}{0}{2}{123/123}{}{0}}
+\headcommand {\beamer@framepages {123}{123}}
+\headcommand {\slideentry {8}{0}{3}{124/124}{}{0}}
+\headcommand {\beamer@framepages {124}{124}}
+\headcommand {\beamer@partpages {1}{124}}
+\headcommand {\beamer@subsectionpages {1}{124}}
+\headcommand {\beamer@sectionpages {1}{124}}
+\headcommand {\beamer@documentpages {124}}
+\headcommand {\def \inserttotalframenumber {104}}
