@@ -1,3 +1,3 @@
-# DLSlides_TeX
+# Deep Learning Presentation
 
-A (seminar) presentation on basics of Deep Learning made using TeX.
+An introductory (seminar) presentation on basics of Deep Learning made using TeX for my CS581 course.
